@@ -12,7 +12,7 @@ const USERS_DATA = [
 export default function HomeScreen() {
   return (
     <ScrollView contentContainerStyle={styles.container}>
-      <Text style={styles.title}>Voici mes modifications pour F2</Text>
+      <Text style={styles.title}>Voici mes modifications pour F3</Text>
 
       <ProfileCard
         name="Louis"
